@@ -1,0 +1,9 @@
+E:\mine\nsfw_data_scrapper\nsfw_data_scrapper\bin\Debug\nsfw_data_scrapper.exe.config
+E:\mine\nsfw_data_scrapper\nsfw_data_scrapper\bin\Debug\nsfw_data_scrapper.exe
+E:\mine\nsfw_data_scrapper\nsfw_data_scrapper\bin\Debug\nsfw_data_scrapper.pdb
+E:\mine\nsfw_data_scrapper\nsfw_data_scrapper\obj\Debug\nsfw_data_scrapper.Form1.resources
+E:\mine\nsfw_data_scrapper\nsfw_data_scrapper\obj\Debug\nsfw_data_scrapper.Properties.Resources.resources
+E:\mine\nsfw_data_scrapper\nsfw_data_scrapper\obj\Debug\nsfw_data_scrapper.csproj.GenerateResource.cache
+E:\mine\nsfw_data_scrapper\nsfw_data_scrapper\obj\Debug\nsfw_data_scrapper.csproj.CoreCompileInputs.cache
+E:\mine\nsfw_data_scrapper\nsfw_data_scrapper\obj\Debug\nsfw_data_scrapper.exe
+E:\mine\nsfw_data_scrapper\nsfw_data_scrapper\obj\Debug\nsfw_data_scrapper.pdb
